@@ -1,1 +1,8 @@
-ghbulut.github.io/index.module2.html
+# Module-2 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](ghbulut.github.io/index.module2.html)
+
+
+
