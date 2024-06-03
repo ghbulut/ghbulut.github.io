@@ -3,3 +3,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
 # To see the output [CLICK HERE] (https://ghbulut.github.io/index.module2.html)
+
+# To see the output [CLICK HERE](https://ghbulut.github.io/index.module2.html)
+
